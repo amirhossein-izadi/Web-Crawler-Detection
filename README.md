@@ -11,7 +11,7 @@ Traditional log anomaly detection methods, which rely on manual inspection, keyw
 Consequently, modern anomaly detection mechanisms, especially machine learning methods, have been proposed to enhance detection efficiency.
 
 ## Dataset
-The dataset has been obtained from the Sanjagh server logs. Although it cannot be publicly released, a tiny sample of it can be found [`here`](https://github.com/amirhossein-izadi/Web-Crawler-Detection/blob/master/Datasets) (in <mark>server_HTTP_logs.log</mark> and <mark>log_sample.csv</mark>.
+The dataset has been obtained from the Sanjagh server logs. Although it cannot be publicly released, a tiny sample of it can be found [`here`](https://github.com/amirhossein-izadi/Web-Crawler-Detection/blob/master/Datasets) (in ```server_HTTP_logs.log``` and ```log_sample.csv```.
 In case you are interested in the complete dataset, you can use any other nginx log servers available in the world-wide internet and extract it and save it into csv file via [`extractor.py`](https://github.com/amirhossein-izadi/Web-Crawler-Detection/blob/master/Utils)
 
 This is server log format
