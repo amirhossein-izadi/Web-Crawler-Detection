@@ -3,7 +3,7 @@ This is final project of [Rahnema College](https://rahnemacollege.com/courses/ma
 
 
 ## Project Description
----
+
 ### Introduction
 The task is focused on detecting anomalies within datasets, particularly in the context of cybersecurity, to identify intrusions through log analysis.
 Anomalies are critical in various domains like banking, cybersecurity, and system administration. 
